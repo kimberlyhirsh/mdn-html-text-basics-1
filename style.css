@@ -1,0 +1,10 @@
+/* CSS files add styling rules to your content */
+
+h1,
+h2 {
+  color: purple;
+}
+
+p {
+  color: gray;
+}
